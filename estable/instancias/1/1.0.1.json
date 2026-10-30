@@ -1,0 +1,46 @@
+{
+  "formato": 1,
+  "id": "1",
+  "nombre": "Endless Trials",
+  "version": "1.0.1",
+  "canal": "estable",
+  "minecraft": "1.20.1",
+  "loader": {
+    "tipo": "forge",
+    "build": "47.4.10"
+  },
+  "java": 17,
+  "modsEstrictos": true,
+  "administradas": [
+    "mods",
+    "config"
+  ],
+  "preservadas": [
+    "saves",
+    "screenshots",
+    "logs",
+    "crash-reports",
+    "backups",
+    "downloads",
+    "options.txt",
+    "optionsof.txt",
+    "optionsshaders.txt",
+    "servers.dat",
+    "servers.dat_old",
+    "usercache.json",
+    "usernamecache.json",
+    "realms_persistence.json",
+    "command_history.txt",
+    "journeymap",
+    "xaero",
+    "xaerowaypoints",
+    "xaeroworldmap",
+    "local",
+    "essential",
+    "schematics",
+    "replay_recordings",
+    ".replay_cache"
+  ],
+  "contenido": "d8cff90bc63e14ec48a0ee7745516081a03875e2733f39587edd85f608751002",
+  "files": []
+}
