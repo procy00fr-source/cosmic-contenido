@@ -1,7 +1,7 @@
 {
   "formato": 1,
   "canal": "estable",
-  "generado": "2026-10-30T04:01:40.985Z",
+  "generado": "2026-10-30T07:30:19.311Z",
   "estudio": {
     "lema": "Bienvenidos",
     "redes": {},
@@ -17,5 +17,29 @@
       "texto": "Bienvenidos a todos"
     }
   ],
-  "instancias": []
+  "instancias": [
+    {
+      "id": "1",
+      "nombre": "Endless Trials",
+      "descripcion": "",
+      "categoria": "Otras",
+      "orden": 99,
+      "imagen": null,
+      "version": "1.0.0",
+      "changelog": "",
+      "minecraft": "1.20.1",
+      "loader": {
+        "tipo": "forge",
+        "build": "47.4.10"
+      },
+      "java": 17,
+      "contenido": "27c8a0409d5768e1d2e199c1ed62bec6e7cce6ebfa7d9e665a2be2c6916225cf",
+      "bytes": 0,
+      "manifiesto": "https://raw.githubusercontent.com/procy00fr-source/cosmic-contenido/777b51953289ce2a56139a4ee7490d1e8db76617/estable/instancias/1/1.0.0.json",
+      "publicado": {
+        "fecha": "2026-10-30T07:30:19.311Z",
+        "por": "Amercson (@procy00fr-source)"
+      }
+    }
+  ]
 }
