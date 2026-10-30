@@ -1,0 +1,21 @@
+{
+  "formato": 1,
+  "canal": "beta",
+  "generado": "2026-10-30T04:01:41.380Z",
+  "estudio": {
+    "lema": "Bienvenidos",
+    "redes": {},
+    "acceso": {
+      "jugarSinCuenta": true,
+      "microsoft": true
+    }
+  },
+  "noticias": [
+    {
+      "titulo": "Welcome",
+      "fecha": "29/10/2026",
+      "texto": "Bienvenidos a todos"
+    }
+  ],
+  "instancias": []
+}
