@@ -1,7 +1,7 @@
 {
   "formato": 1,
   "canal": "estable",
-  "generado": "2026-10-30T07:30:19.311Z",
+  "generado": "2026-10-30T07:46:35.907Z",
   "estudio": {
     "lema": "Bienvenidos",
     "redes": {},
@@ -24,8 +24,8 @@
       "descripcion": "",
       "categoria": "Otras",
       "orden": 99,
-      "imagen": null,
-      "version": "1.0.0",
+      "imagen": "https://raw.githubusercontent.com/procy00fr-source/cosmic-contenido/d8ad60547b9fe2eb4977b9a09e229065e2c9d7c9/estable/instancias/1/portada.jpg",
+      "version": "1.0.1",
       "changelog": "",
       "minecraft": "1.20.1",
       "loader": {
@@ -33,11 +33,11 @@
         "build": "47.4.10"
       },
       "java": 17,
-      "contenido": "27c8a0409d5768e1d2e199c1ed62bec6e7cce6ebfa7d9e665a2be2c6916225cf",
+      "contenido": "d8cff90bc63e14ec48a0ee7745516081a03875e2733f39587edd85f608751002",
       "bytes": 0,
-      "manifiesto": "https://raw.githubusercontent.com/procy00fr-source/cosmic-contenido/777b51953289ce2a56139a4ee7490d1e8db76617/estable/instancias/1/1.0.0.json",
+      "manifiesto": "https://raw.githubusercontent.com/procy00fr-source/cosmic-contenido/d8ad60547b9fe2eb4977b9a09e229065e2c9d7c9/estable/instancias/1/1.0.1.json",
       "publicado": {
-        "fecha": "2026-10-30T07:30:19.311Z",
+        "fecha": "2026-10-30T07:46:35.907Z",
         "por": "Amercson (@procy00fr-source)"
       }
     }

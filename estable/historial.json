@@ -25,6 +25,30 @@
         },
         "changelog": "",
         "notas": ""
+      },
+      {
+        "id": "1",
+        "nombre": "Endless Trials",
+        "descripcion": "",
+        "categoria": "Otras",
+        "orden": 99,
+        "imagen": "https://raw.githubusercontent.com/procy00fr-source/cosmic-contenido/d8ad60547b9fe2eb4977b9a09e229065e2c9d7c9/estable/instancias/1/portada.jpg",
+        "version": "1.0.1",
+        "minecraft": "1.20.1",
+        "loader": {
+          "tipo": "forge",
+          "build": "47.4.10"
+        },
+        "java": 17,
+        "contenido": "d8cff90bc63e14ec48a0ee7745516081a03875e2733f39587edd85f608751002",
+        "bytes": 0,
+        "manifiesto": "https://raw.githubusercontent.com/procy00fr-source/cosmic-contenido/d8ad60547b9fe2eb4977b9a09e229065e2c9d7c9/estable/instancias/1/1.0.1.json",
+        "publicado": {
+          "fecha": "2026-10-30T07:46:35.907Z",
+          "por": "Amercson (@procy00fr-source)"
+        },
+        "changelog": "",
+        "notas": ""
       }
     ]
   }
